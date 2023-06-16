@@ -1,0 +1,7 @@
+To host Newletter Signup on Heroku, follow the following commands.
+headover to Newsletter
+> git init
+> git add .
+> git commit -m "First commit"
+> heroku create
+> git push heroku master
